@@ -1,4 +1,4 @@
-# Analysis and Prediction of Water Quality in Aquaponic Fish Ponds using Python
+# Short-Term Prediction of Water Quality Parameters in an Aquaponic Fish Pond Using IoT Sensor Data and Python
 
 ## Scientific Question
 
